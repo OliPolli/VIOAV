@@ -1,2 +1,4 @@
 num1 = input("Halló stæarðfræði first number")
 num2 = input("second number")
+num3 = input("thrid number")
+print(int(num1)+int(num2)+int(num3)) 
