@@ -1,0 +1,6 @@
+first=int(input("Enter in an integer: "))
+second= int(input("Enter in an integer: "))
+third= int(input("Enter in an integer: "))
+
+sum=first+second+third
+print(f" {sum} Halló stærðfræði!")
